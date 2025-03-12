@@ -62,4 +62,4 @@ If you find this project useful, consider **starring** the repo to show your sup
 [![Twitter](https://img.shields.io/badge/Twitter-@tomlikestocode-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tomlikestocode)
 [![GitHub](https://img.shields.io/badge/GitHub-TomBoyle-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/tom-boyle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TomBoyle-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-boyle-au/)
-[![Website](https://img.shields.io/badge/Website-tomboyle.dev-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://tomboyle.dev)
+[![Website](https://img.shields.io/badge/Website-tomboyle.dev-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://tomboyle.io)
