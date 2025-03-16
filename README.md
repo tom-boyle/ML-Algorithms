@@ -7,6 +7,19 @@
 
 🎯 **A collection of machine learning algorithms implemented in Python, including Supervised Learning, Unsupervised Learning, Reinforcement Learning, and Deep Learning.**
 
+## 📌 Table of Contents
+1. [Why This Repository?](#-why-this-repository)
+2. [Features](#-features)
+3. [Algorithm Categories](#-algorithm-categories)
+4. [Algorithm Comparison](#-algorithm-comparison)
+5. [Getting Started](#-getting-started)
+6. [Contributing](#-contributing)
+7. [Support](#-support)
+8. [License](#-license)
+9. [Connect with Me](#-connect-with-me)
+
+---
+
 ## 🧐 Why This Repository?
 Machine learning is a vast field, and while there are numerous frameworks and libraries available, beginners often struggle to understand the fundamental algorithms that power these frameworks. This repository was created to provide:
 
@@ -31,6 +44,8 @@ Whether you are a beginner looking to grasp the basics or an experienced develop
 ✅ **Minimal dependencies** for quick setup  
 ✅ **Open-source & beginner-friendly**  
 
+---
+
 ## 📂 Algorithm Categories
 
 ### 🔵 Supervised Learning
@@ -48,6 +63,20 @@ Whether you are a beginner looking to grasp the basics or an experienced develop
 ### 🔴 Deep Learning
 - [`Neural_Network.py`](DeepLearning/Neural_Network.py) - Simple Neural Network
 - [`CNN.py`](DeepLearning/CNN.py) - Convolutional Neural Network (CNN)
+
+---
+
+## 📊 Algorithm Comparison
+| Algorithm | Type | Strengths | Weaknesses |
+|-----------|------|-----------|------------|
+| Linear Regression | Supervised | Simple, interpretable, fast | Sensitive to outliers |
+| Decision Tree | Supervised | Easy to interpret, non-linear relationships | Prone to overfitting |
+| K-Means Clustering | Unsupervised | Fast and scalable | Assumes spherical clusters |
+| PCA | Unsupervised | Reduces dimensionality, speeds up computation | Loses some interpretability |
+| Q-Learning | Reinforcement | Learns optimal policies | Can be computationally expensive |
+| Deep Q-Network (DQN) | Reinforcement | Handles large state spaces well | Requires a lot of training data |
+| Simple Neural Network | Deep Learning | Learns complex patterns | Requires a lot of data |
+| Convolutional Neural Network (CNN) | Deep Learning | Excellent for image processing | Computationally intensive |
 
 ---
 
@@ -96,7 +125,8 @@ This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) fi
 ---
 
 ## 📢 Connect with Me
-[![X](https://img.shields.io/badge/X-@tomlikestocode-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/tomlikestocode)
-[![GitHub](https://img.shields.io/badge/GitHub-TomBoyle-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/tom-boyle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TomBoyle-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-boyle-au/)
-[![Website](https://img.shields.io/badge/Website-tomboyle.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://tomboyle.io)
+[![X](https://img.shields.io/badge/X-@tomlikestocode-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/tomlikestocode)  
+[![GitHub](https://img.shields.io/badge/GitHub-TomBoyle-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/tom-boyle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TomBoyle-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-boyle-au/)  
+[![Website](https://img.shields.io/badge/Website-tomboyle.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://tomboyle.io)  
+
